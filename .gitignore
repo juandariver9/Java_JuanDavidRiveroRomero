@@ -1,0 +1,15 @@
+# Archivos compilados de NetBeans / Ant
+build/
+dist/
+nbproject/private/
+
+# Archivos compilados de Java
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Variables de entorno
+.env
